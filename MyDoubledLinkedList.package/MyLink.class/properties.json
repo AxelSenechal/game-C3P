@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MyDoubledLinkedList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"previous",
+		"next"
+	],
+	"name" : "MyLink",
+	"type" : "normal"
+}

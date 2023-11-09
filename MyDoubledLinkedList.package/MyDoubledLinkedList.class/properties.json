@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MyDoubledLinkedList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"head",
+		"tail"
+	],
+	"name" : "MyDoubledLinkedList",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+testing
+hasNext
+
+	^ next notNil
