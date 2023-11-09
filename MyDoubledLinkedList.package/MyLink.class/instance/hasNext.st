@@ -1,4 +1,0 @@
-testing
-hasNext
-
-	^ next notNil
