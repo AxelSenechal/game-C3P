@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Wall",
+	"category" : "MazeGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EmptyWall",
+	"type" : "normal"
+}
