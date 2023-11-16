@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "Nouha 11/16/2023 11:41",
+	"commentStamp" : "Nouha 11/16/2023 11:45",
 	"super" : "Object",
 	"category" : "MazeGenerator",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"cells"
+		"grid",
+		"mazesGenerator"
 	],
-	"name" : "Grid",
+	"name" : "Maze",
 	"type" : "normal"
 }

@@ -1,0 +1,1 @@
+"I am a maze generator, I'll generate diffrent mazes according to diffrent algorithms"
