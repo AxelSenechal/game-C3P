@@ -6,7 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"cells"
+		"cells",
+		"walls",
+		"width",
+		"height"
 	],
 	"name" : "Grid",
 	"type" : "normal"
