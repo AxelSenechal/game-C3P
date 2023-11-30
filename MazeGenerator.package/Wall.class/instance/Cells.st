@@ -1,3 +1,3 @@
 accessing
-getCells
+Cells
 	^ cells

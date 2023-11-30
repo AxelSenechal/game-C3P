@@ -8,6 +8,6 @@
 	"instvars" : [
 		"grid"
 	],
-	"name" : "GridTest",
+	"name" : "KruskallMazeGeneratorTest",
 	"type" : "normal"
 }
