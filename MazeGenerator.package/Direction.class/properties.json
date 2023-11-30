@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "TestCase",
-	"category" : "MazeGenerator-Tests",
+	"super" : "Object",
+	"category" : "MazeGenerator",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"grid"
+		"x",
+		"y"
 	],
-	"name" : "GridTest",
+	"name" : "Direction",
 	"type" : "normal"
 }

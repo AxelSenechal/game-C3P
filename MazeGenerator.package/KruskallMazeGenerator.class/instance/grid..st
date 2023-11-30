@@ -1,0 +1,4 @@
+accessing
+grid: agrid
+
+	^self
