@@ -1,0 +1,1 @@
+I am a representation of cardinal directions (NORTH, SOUTH, EAST, WEST) 
