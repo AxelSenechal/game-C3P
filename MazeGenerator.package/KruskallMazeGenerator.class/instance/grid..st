@@ -1,4 +1,4 @@
 accessing
 grid: agrid
 
-	^self
+	grid := agrid
