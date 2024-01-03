@@ -1,3 +1,4 @@
-instance creation
+accessing
 SOUTH
-     ^self named: 'SOUTH'.
+
+	^ 'SOUTH'

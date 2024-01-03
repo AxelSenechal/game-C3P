@@ -6,7 +6,11 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"walls"
+		"walls",
+		"x",
+		"y",
+		"neighbours",
+		"visited"
 	],
 	"name" : "Cell",
 	"type" : "normal"

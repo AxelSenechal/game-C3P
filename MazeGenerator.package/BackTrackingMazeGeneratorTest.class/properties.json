@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "GB 12/9/2023 18:47",
+	"super" : "TestCase",
+	"category" : "MazeGenerator-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid"
+	],
+	"name" : "BackTrackingMazeGeneratorTest",
+	"type" : "normal"
+}

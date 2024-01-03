@@ -1,4 +1,4 @@
-instance creation
-NORTH 
-        ^self named: 'NORTH'.
-    
+accessing
+NORTH
+
+	^ 'NORTH'

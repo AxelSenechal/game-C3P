@@ -1,3 +1,3 @@
-instance creation
+accessing
 EAST 
      ^self named: 'EAST'.
