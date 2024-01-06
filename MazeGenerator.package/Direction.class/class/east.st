@@ -1,4 +1,4 @@
 as yet unclassified
-east
+East
 
-	^ self new initializeOpp: 'WEST' dx: 1 dy: 0 
+	^ self new initializeOpp: 'WEST' dx: 1 dy: 0
