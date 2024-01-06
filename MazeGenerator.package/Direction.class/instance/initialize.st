@@ -1,26 +1,29 @@
-instance creation
+initialization
 initialize
-    "Initialise les directions uniques"
-    North := self new.
-    North name: 'North'.
-    North dx: 0.
-    North dy: -1.
-    North opposite: 'South'.
+	"Initialise les directions uniques"
 
-    South := self new.
-    South name: 'South'.
-    South dx: 0.
-    South dy: 1.
-    South opposite: 'North'.
+	| north south west east |
+	north := self new.
+	north name: 'North'.
+	north dx: 0.
+	north dy: -1.
+	north oppositeD: 'South'.
 
-    East := self new.
-    East name: 'East'.
-    East dx: 1.
-    East dy: 0.
-    East opposite: 'West'.
+	south := self new.
+	south name: 'South'.
+	south dx: 0.
+	south dy: 1.
+	south oppositeD: 'North'.
 
-    West := self new.
-    West name: 'West'.
-    West dx: -1.
-    West dy: 0.
-    West opposite: 'East'.
+	east := self new.
+	east name: 'East'.
+	east dx: 1.
+	east dy: 0.
+	east oppositeD: 'West'.
+
+	west := self new.
+	west name: 'West'.
+	west dx: -1.
+	west dy: 0.
+	west oppositeD: 'East'.
+
