@@ -4,15 +4,9 @@
 	"category" : "MazeGenerator",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [
-		"East",
-		"North",
-		"South",
-		"West"
-	],
+	"classvars" : [ ],
 	"instvars" : [
-		"name",
-		"opposite",
+		"opp",
 		"dx",
 		"dy"
 	],
