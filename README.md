@@ -17,7 +17,7 @@ Via iceberg, connectez vous à ce dépôt idéalement via méthode ssh.
 
 Le package à récupérer dans votre image se nomme: "MazeGenerator".
 
-Le nom du dépôt est: "gamee-c3p".
+Le nom du dépôt est: "game-c3p".
 
 # Instructions d'usage
 
@@ -127,5 +127,7 @@ l'algorithme arrive à la fin quand on revient sur la cellule du point de dépar
 # Axes d'amélioration
 
 
-Notre projet permet actuellement un affichage complet des cellules et des murs nécessaires à la génération d'un maze. Les patterns notamment
- 
+Notre projet permet actuellement un affichage complet des cellules et des murs nécessaires à la génération d'un maze. L'application de design pattern perméable à l'évolution de code comme Strategy, nous permettrait aisément 
+d'améliorer notre projet en ajoutant d'autres générateurs de maze sans mettre en péril l'intégrité de la base.
+
+Il est aussi prioritaire de considérer l'axe d'amélioration principal, à savoir rendre cette version fonctionnelle. Actuellement, les algorithmes des MazeGenerators sont encore à terminer, bien qu'ils profitent déjà d'un modèle et d'une IHM fonctionels.
