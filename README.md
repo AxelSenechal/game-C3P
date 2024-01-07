@@ -16,6 +16,8 @@ Dans ce fichier, nous vous présenterons les différentes étapes de notre proje
 # Instructions d'usage
 
 # Design
+Au niveau des priorités, nous avons prioriser le fait d'appliquer la méthode TDD afin de chercher les fonctionnalités de notre code par les tests.
+
 
 ## LES ALGORITHMES
 
@@ -30,3 +32,5 @@ Algorithme 1:
  # 1  Kruskal
 
  on dipose au tout début d'une grille qui sera modélisé par un tableau à 2 dimensions, elle contient des cellules, chaque cellule est délimitée par des murs, ces murs peuvent être communs à une cellule et sa voisine .
+
+ 
