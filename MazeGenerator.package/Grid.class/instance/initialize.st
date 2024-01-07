@@ -1,6 +1,7 @@
 initialization
 initialize
 
+	"cells := Array2D new: width."
 	|emptyLine|
 
 	emptyLine := OrderedCollection new.
@@ -13,6 +14,3 @@ initialize
 	height := 0.
 	
 	walls := OrderedCollection new.
-	
-	
-	

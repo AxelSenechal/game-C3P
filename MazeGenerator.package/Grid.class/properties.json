@@ -9,7 +9,8 @@
 		"cells",
 		"walls",
 		"width",
-		"height"
+		"height",
+		"sets"
 	],
 	"name" : "Grid",
 	"type" : "normal"
