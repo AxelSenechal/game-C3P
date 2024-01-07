@@ -13,7 +13,48 @@ Dans ce fichier, nous vous présenterons les différentes étapes de notre proje
 
 # Instructions d'installation
 
+Via iceberg, connectez vous à ce dépôt idéalement via méthode ssh.
+
+Le package à récupérer dans votre image se nomme: "MazeGenerator".
+
+Le nom du dépôt est: "gamee-c3p".
+
 # Instructions d'usage
+
+Le programme n'était pas encore fonctionnel, voici un code en background pour afficheeer une maze encore non traité (un mur cassé volontairement affiche le résultat attendu d'un mur brisé)
+
+`
+|gg g game generator|
+g := Grid new.
+g width: 5 height: 5.
+(g at: 2 at: 2) north: (EmptyWall new).
+
+
+gg := GridGraphic new.
+gg grid: g.
+
+(g at: 2 at: 2) north: (EmptyWall new).
+
+
+
+game := Game new.
+
+game grid: g.
+game gridgraph: gg.
+
+"
+generator := KruskalMazeGenerator new
+OR
+generator := BackMazeGenerator new
+
+game maze: generator
+"
+
+game play.
+`
+
+
+
 
 # Design
 Au niveau des priorités, nous avons prioriser le fait d'appliquer la méthode TDD afin de chercher les fonctionnalités de notre code par les tests.
