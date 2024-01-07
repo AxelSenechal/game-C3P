@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AxelSenechal 11/30/2023 11:48",
+	"super" : "BlElement",
+	"category" : "MazeGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"refWall",
+		"orientation",
+		"color"
+	],
+	"name" : "WallGraphic",
+	"type" : "normal"
+}
