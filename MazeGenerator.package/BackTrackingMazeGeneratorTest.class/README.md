@@ -1,1 +1,0 @@
-Test pour vérifier si les directions sont mélangées correctement

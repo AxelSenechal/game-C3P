@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "GB 12/9/2023 18:47",
+	"commentStamp" : "",
 	"super" : "TestCase",
 	"category" : "MazeGenerator-Tests",
 	"classinstvars" : [ ],

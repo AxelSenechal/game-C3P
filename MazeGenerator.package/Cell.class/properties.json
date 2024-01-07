@@ -10,7 +10,11 @@
 		"x",
 		"y",
 		"neighbours",
-		"visited"
+		"visited",
+		"north",
+		"south",
+		"west",
+		"east"
 	],
 	"name" : "Cell",
 	"type" : "normal"
