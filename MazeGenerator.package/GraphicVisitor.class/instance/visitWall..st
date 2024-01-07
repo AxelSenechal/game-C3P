@@ -1,0 +1,3 @@
+accessing
+visitWall: aWall
+^ true.

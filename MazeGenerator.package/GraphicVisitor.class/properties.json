@@ -1,14 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "BlElement",
+	"super" : "Object",
 	"category" : "MazeGenerator",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"grid",
-		"cellsg"
+		"gridgraphic",
+		"cellsgraph"
 	],
-	"name" : "GridGraphic",
+	"name" : "GraphicVisitor",
 	"type" : "normal"
 }
