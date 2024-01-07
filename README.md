@@ -73,5 +73,20 @@ Algorithme 1:
  # 1  Kruskal
 
  on dipose au tout début d'une grille qui sera modélisé par un tableau à 2 dimensions, elle contient des cellules, chaque cellule est délimitée par des murs, ces murs peuvent être communs à une cellule et sa voisine .
+Le principe avec lequel fonctionne cet algorithme est le suivant:
+
+Nous allons commencer par attribuer à chaque cellule un chiffre(ou une lettre).
+on sélectionne aléatoirement un mur, et on perce un passage entre 2 cellules qui partagent ce mur, si elles n'appartiennent  pas au même ensemble ensuite on regroupe les deux categorie.
+L'algorithme arrive à la fin quand il ne reste plus de murs à détruire donc quand on arrive à regrouper toutes les cellules dans le même ensemble.
+
+
+
+ # 2  Recursive backtracker
+ 
+on dipose au tout début d'une grille qui sera modélisé par un tableau à 2 dimensions, elle contient des cellules, chaque cellule est délimitée par des murs, ces murs peuvent être communs à une cellule et sa voisine .
+Le principe avec lequel fonctionne cet algorithme consiste à :
+
+Choisir un point de départ dans la grille.
+![image1](https://github.com/AxelSenechal/game-C3P/assets/100805269/27d08547-760e-40d7-8aa5-2818374c5929)
 
  
