@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"cells"
+		"cell1",
+		"cell2"
 	],
 	"name" : "Wall",
 	"type" : "normal"

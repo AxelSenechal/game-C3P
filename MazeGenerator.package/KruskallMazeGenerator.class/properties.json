@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Nouha 12/5/2023 21:20",
+	"super" : "MazesGenerator",
+	"category" : "MazeGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"catIndex",
+		"categories",
+		"edges"
+	],
+	"name" : "KruskallMazeGenerator",
+	"type" : "normal"
+}
