@@ -124,5 +124,8 @@ l'algorithme arrive à la fin quand on revient sur la cellule du point de dépar
 
 
 
+# Axes d'amélioration
 
+
+Notre projet permet actuellement un affichage complet des cellules et des murs nécessaires à la génération d'un maze. Les patterns notamment
  
