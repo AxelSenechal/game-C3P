@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MazeGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"gridgraph",
+		"maze"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}
