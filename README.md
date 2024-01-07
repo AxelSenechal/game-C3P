@@ -17,7 +17,7 @@ Dans ce fichier, nous vous présenterons les différentes étapes de notre proje
 
 # Design
 Au niveau des priorités, nous avons prioriser le fait d'appliquer la méthode TDD afin de chercher les fonctionnalités de notre code par les tests.
-
+Au niveau des design patterns, on a choisi d'utiliser le design pattern visitor pour l'affichage qui parcourt les cellules et les murs. On choisi également d'appliquer le design pattern strategy pour les algos de génération de labyrinthes, notamment Kruskall et recursive BackTracking, qui sont deux stratégies différentes pour createMaze.
 
 ## LES ALGORITHMES
 
@@ -26,7 +26,7 @@ Nous avons choisi d'écarter certains des algorithmes trouvés pour 2 principale
 - le temps d'éxécution du programme
 - le fait qu'on peut prédire à quoi va ressembler le squelette du labyrinthe.
 
-A la fin, 2 algorithmes ont été choisis par notre groupe : Kruskal et recursive backtracker.
+A la fin, 2 algorithmes ont été choisis par notre groupe : Kruskall et recursive backtracker.
 
 Algorithme 1:
  # 1  Kruskal
