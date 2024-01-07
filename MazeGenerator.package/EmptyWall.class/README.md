@@ -1,0 +1,1 @@
+"I am an empty wall, I actually don't exist in the grid"
