@@ -1,0 +1,3 @@
+accessing
+refWall: aWall
+^ refWall.
