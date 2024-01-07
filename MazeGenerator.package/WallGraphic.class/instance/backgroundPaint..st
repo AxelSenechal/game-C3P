@@ -1,6 +1,5 @@
 initialization
-backgroundPaint
+backgroundPaint: aColor
 	"comment stating purpose of instance-side method"
 	"scope: class-variables  &  instance-variables"
-
-^ color  .
+color :=  aColor.

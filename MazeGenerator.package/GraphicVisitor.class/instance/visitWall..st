@@ -1,3 +1,0 @@
-accessing
-visitWall: aWall
-^ true.
