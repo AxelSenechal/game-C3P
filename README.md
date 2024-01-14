@@ -1,4 +1,4 @@
-# game-C3P
+# MazeGenerator
 
 ## Equipe CONTRAST
 - Axel SENECHAL
