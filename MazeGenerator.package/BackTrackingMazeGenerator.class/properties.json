@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MazesGenerator",
+	"category" : "MazeGenerator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BackTrackingMazeGenerator",
+	"type" : "normal"
+}

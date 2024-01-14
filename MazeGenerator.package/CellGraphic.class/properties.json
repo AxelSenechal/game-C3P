@@ -1,15 +1,13 @@
 {
-	"commentStamp" : "Nouha 12/5/2023 21:15",
-	"super" : "Object",
+	"commentStamp" : "",
+	"super" : "BlElement",
 	"category" : "MazeGenerator",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"opp",
-		"dx",
-		"dy"
+		"refcell"
 	],
-	"name" : "Direction",
+	"name" : "CellGraphic",
 	"type" : "normal"
 }

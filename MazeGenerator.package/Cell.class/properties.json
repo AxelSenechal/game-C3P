@@ -6,13 +6,15 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"north",
-		"east",
-		"south",
-		"west",
 		"walls",
 		"x",
-		"y"
+		"y",
+		"neighbours",
+		"visited",
+		"north",
+		"south",
+		"west",
+		"east"
 	],
 	"name" : "Cell",
 	"type" : "normal"
