@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "BlSpace",
-	"category" : "MazeGenerator",
+	"category" : "MazeGenerator-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

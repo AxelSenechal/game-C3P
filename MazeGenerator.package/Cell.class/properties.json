@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "Nouha 11/23/2023 11:06",
 	"super" : "Object",
-	"category" : "MazeGenerator",
+	"category" : "MazeGenerator-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
