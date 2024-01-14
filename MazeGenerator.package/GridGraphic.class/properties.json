@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "BlElement",
-	"category" : "MazeGenerator-Model",
+	"category" : "MazeGenerator-Graphics",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
