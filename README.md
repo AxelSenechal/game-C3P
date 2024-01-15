@@ -1,4 +1,4 @@
-# game-C3P
+# MazeGenerator
 
 ## Equipe CONTRAST
 - Axel SENECHAL
@@ -23,7 +23,7 @@ Le nom du dépôt est: "game-c3p".
 
 Le programme n'était pas encore fonctionnel, voici un code en background pour afficheeer une maze encore non traité (un mur cassé volontairement affiche le résultat attendu d'un mur brisé)
 
-`
+```
 |gg g game generator|
 g := Grid new.
 g width: 5 height: 5.
@@ -34,8 +34,6 @@ gg := GridGraphic new.
 gg grid: g.
 
 (g at: 2 at: 2) north: (EmptyWall new).
-
-
 
 game := Game new.
 
@@ -51,7 +49,7 @@ game maze: generator
 "
 
 game play.
-`
+```
 
 
 
